@@ -1,0 +1,15 @@
+/Users/tunzale/Projects/MethodTask/MethodTask/bin/Debug/net6.0/MethodTask
+/Users/tunzale/Projects/MethodTask/MethodTask/bin/Debug/net6.0/MethodTask.deps.json
+/Users/tunzale/Projects/MethodTask/MethodTask/bin/Debug/net6.0/MethodTask.runtimeconfig.json
+/Users/tunzale/Projects/MethodTask/MethodTask/bin/Debug/net6.0/MethodTask.dll
+/Users/tunzale/Projects/MethodTask/MethodTask/bin/Debug/net6.0/MethodTask.pdb
+/Users/tunzale/Projects/MethodTask/MethodTask/obj/Debug/net6.0/MethodTask.csproj.AssemblyReference.cache
+/Users/tunzale/Projects/MethodTask/MethodTask/obj/Debug/net6.0/MethodTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tunzale/Projects/MethodTask/MethodTask/obj/Debug/net6.0/MethodTask.AssemblyInfoInputs.cache
+/Users/tunzale/Projects/MethodTask/MethodTask/obj/Debug/net6.0/MethodTask.AssemblyInfo.cs
+/Users/tunzale/Projects/MethodTask/MethodTask/obj/Debug/net6.0/MethodTask.csproj.CoreCompileInputs.cache
+/Users/tunzale/Projects/MethodTask/MethodTask/obj/Debug/net6.0/MethodTask.dll
+/Users/tunzale/Projects/MethodTask/MethodTask/obj/Debug/net6.0/refint/MethodTask.dll
+/Users/tunzale/Projects/MethodTask/MethodTask/obj/Debug/net6.0/MethodTask.pdb
+/Users/tunzale/Projects/MethodTask/MethodTask/obj/Debug/net6.0/MethodTask.genruntimeconfig.cache
+/Users/tunzale/Projects/MethodTask/MethodTask/obj/Debug/net6.0/ref/MethodTask.dll
